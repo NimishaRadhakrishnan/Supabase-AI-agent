@@ -1,0 +1,4 @@
+python-telegram-bot==21.10
+supabase==2.13.0
+groq==0.9.0
+python-dotenv==1.1.0
